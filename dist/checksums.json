@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "algorithm": "SHA256",
+  "files": [
+    {
+      "name": "panjie-perspective.zip",
+      "bytes": 10204,
+      "sha256": "f3a540cbcadad2afded2b01fde89bbfc177c911c3c911907c9a1c25ecc42a940"
+    },
+    {
+      "name": "panjie-perspective-workbuddy.zip",
+      "bytes": 10092,
+      "sha256": "2dbb0dbe60f90538280f618477daca9217ff50bed7e96da7746b1b5729415d16"
+    },
+    {
+      "name": "panjie-perspective-prompt.md",
+      "bytes": 14260,
+      "sha256": "16a011e19d35eb562d7e935e6736404ade7b2b3d747c07fd0fe380b76c1f5b38"
+    }
+  ]
+}
