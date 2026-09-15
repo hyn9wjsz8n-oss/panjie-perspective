@@ -1,0 +1,10 @@
+{
+  "name": "panjie-perspective",
+  "display_name": "盼姐工作判断与表达",
+  "version": "1.0.0",
+  "author": "hyn9wjsz8n-oss",
+  "repository": "https://github.com/hyn9wjsz8n-oss/panjie-perspective",
+  "description_zh": "用盼姐的工作判断与自然口语分析客户、代拟回复和口播，无需外置知识库。",
+  "description_en": "Simulate Panjie's practical work perspective and conversational Chinese for customer analysis, reply drafts, and short scripts. No external knowledge base required.",
+  "category": "writing"
+}

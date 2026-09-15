@@ -1,0 +1,102 @@
+{
+  "version": "1.0.0",
+  "repository": "https://github.com/hyn9wjsz8n-oss/panjie-perspective",
+  "scope": "Selected public files only. This manifest excludes itself.",
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 108,
+      "sha256": "1e10ab2a876d928acfd7e3a2eff9f05e0b4e5cf18d8dd1442b5883e565564848"
+    },
+    {
+      "path": "README.md",
+      "bytes": 4678,
+      "sha256": "71f92148bd89886e2e2427ad050c7f68a10eb2f675e58475e3f0bc39c4eb2a4f"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1071,
+      "sha256": "aa50a5b6398712e10d1309df4332309c71b113da831f505a084cae5988869f68"
+    },
+    {
+      "path": "SKILL.md",
+      "bytes": 5180,
+      "sha256": "f8c2c052d3d13a4108c81c296802081a1628f30d847b3d2cbf2719d4944c456e"
+    },
+    {
+      "path": "release.json",
+      "bytes": 547,
+      "sha256": "d91f940734e1502ded9795fa80feda512d2fe8da36ec2031e0680e3597bec0a7"
+    },
+    {
+      "path": "agents/openai.yaml",
+      "bytes": 314,
+      "sha256": "29f0f5ebd8eac0dcc8136b0c51a17f7e65b9c405ba61d78dcc712356fbfb000d"
+    },
+    {
+      "path": "references/work-style.md",
+      "bytes": 2124,
+      "sha256": "69ba9d87ef35597ecd08f3f28d99db8dbf9bee537edc707c0835e36b6e586df3"
+    },
+    {
+      "path": "references/workflow.md",
+      "bytes": 2177,
+      "sha256": "cf2d406b5668b72ae96cb29964c5173c3ccf01a02bbd2a62af8a4a9a17a35997"
+    },
+    {
+      "path": "references/voice.md",
+      "bytes": 2513,
+      "sha256": "014676ff8d1a35276ce4e07a17a6a153afd06d4bb0e13a965da5f911497b55b2"
+    },
+    {
+      "path": "references/customer-context.md",
+      "bytes": 2390,
+      "sha256": "07bd4400d5632708c7529dab433672679ea7895a81ee4140ae5a04b9758b75b3"
+    },
+    {
+      "path": "docs/platforms.md",
+      "bytes": 3035,
+      "sha256": "ff825b6ce4be984dd59da0a88b4b503234633d3fabf61d78d4722ca7001d2de7"
+    },
+    {
+      "path": "docs/design.md",
+      "bytes": 1616,
+      "sha256": "75f0335490dc407409310aa15d7dd464f99b9d658628c43f304291874bea38de"
+    },
+    {
+      "path": "docs/validation.md",
+      "bytes": 1386,
+      "sha256": "c6b3292f10936889458c41682f472f97b4fbfa8dfb685aaddf4b8619ee1bdfde"
+    },
+    {
+      "path": "scripts/install.py",
+      "bytes": 2447,
+      "sha256": "7507c73bac863e44dbebf8382ed24995a2cdab69065ad9daf8d91b8624ef168a"
+    },
+    {
+      "path": "scripts/build.py",
+      "bytes": 10295,
+      "sha256": "fdf56b8690dec5fa11542113292195eac81a9a7eb6a42d21fd8acaaa4db7b8a1"
+    },
+    {
+      "path": "dist/panjie-perspective.zip",
+      "bytes": 10204,
+      "sha256": "f3a540cbcadad2afded2b01fde89bbfc177c911c3c911907c9a1c25ecc42a940"
+    },
+    {
+      "path": "dist/panjie-perspective-workbuddy.zip",
+      "bytes": 10092,
+      "sha256": "2dbb0dbe60f90538280f618477daca9217ff50bed7e96da7746b1b5729415d16"
+    },
+    {
+      "path": "dist/panjie-perspective-prompt.md",
+      "bytes": 14260,
+      "sha256": "16a011e19d35eb562d7e935e6736404ade7b2b3d747c07fd0fe380b76c1f5b38"
+    },
+    {
+      "path": "dist/checksums.json",
+      "bytes": 557,
+      "sha256": "fd2fe531dbfa1c47b49650d8973b13b2bab136aba0f65549fd422fdd21e77433"
+    }
+  ]
+}
