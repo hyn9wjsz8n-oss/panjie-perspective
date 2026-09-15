@@ -1,0 +1,4 @@
+interface:
+  display_name: "盼姐工作判断与表达"
+  short_description: "模拟盼姐的工作判断与自然口语，分析客户、比较选择并代拟回复和口播"
+  default_prompt: "请使用 $panjie-perspective，分析我提供的客户场景，再用盼姐的自然口语写一版模拟回复。"
